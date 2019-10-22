@@ -1,6 +1,6 @@
 # Predicting Forest Cover Type
 
-This project aims to use Random Forests to predict the cover type of a forest
+This project aims to use Decision Tree Algorithms Random Forests to predict the cover type of a forest. The dataset was pulled from the UCI Machine Learning Repository. Hyperparmeter tuning was perfomed using GridSearchCV. 
 
 ### Prerequisites
 
